@@ -12,6 +12,7 @@ def separa(adat):
     Valor = ""
     num_car = len(adat)
     print(num_car)
+    print(num_car)
     print(adat)
     
     i = 0
